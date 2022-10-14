@@ -4,14 +4,14 @@ import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import com.epitech.halloweencamp.Commandes.Spook;
+import com.epitech.halloweencamp.Commandes.MagicWand;
+import com.epitech.halloweencamp.Listeners.Join;
+import com.epitech.halloweencamp.Listeners.TrickOrTreat;
 
 public class App extends JavaPlugin {
 
-    static App app;
-
     @Override
     public void onEnable() {
-        app = this;
         getLogger().info("Plugin Loaded! Running version " + getDescription().getVersion());
 
         // register commands
@@ -25,10 +25,6 @@ public class App extends JavaPlugin {
     @Override
     public void onDisable() {
         getLogger().info("[" + getDescription().getName() + "] Plugin Unloaded!");
-    }
-
-    public static App getApp() {
-        return app;
     }
 
 }
