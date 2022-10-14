@@ -1,0 +1,6 @@
+main: com.epitech.halloweencamp.App
+name: HalloweenCamp
+version: "1.0"
+commands:
+  spook:
+    description: Effraye un joueurs

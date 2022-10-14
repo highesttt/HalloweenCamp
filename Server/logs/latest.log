@@ -1,0 +1,147 @@
+[20:23:56] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[20:23:56] [Server thread/INFO]: Loading properties
+[20:23:56] [Server thread/INFO]: Default game type: SURVIVAL
+[20:23:57] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-f4830a1 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[20:23:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:23:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:23:57] [Server thread/INFO]: Debug logging is disabled
+[20:23:57] [Server thread/INFO]: Generating keypair
+[20:23:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:23:57] [Server thread/INFO]: Using default channel type
+[20:23:59] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[20:24:00] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.4.3-SNAPSHOT
+[20:24:00] [Server thread/INFO]: [ViaVersion] ViaVersion 4.4.3-SNAPSHOT is now loaded, injecting!
+[20:24:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[20:24:00] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[20:24:00] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[20:24:00] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[20:24:00] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[20:24:00] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[20:24:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:24:00] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[20:24:00] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[20:24:01] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.18 -> 1.19 mappings...
+[20:24:01] [Server thread/INFO]: [HalloweenCamp] Loading HalloweenCamp v1.0
+[20:24:01] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.4.3-SNAPSHOT
+[20:24:01] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[20:24:01] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[20:24:01] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[20:24:01] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.12 -> 1.11 mappings...
+[20:24:01] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[20:24:01] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[20:24:01] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[20:24:01] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[20:24:01] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[20:24:01] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[20:24:01] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[20:24:01] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.18 -> 1.17 mappings...
+[20:24:01] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.19 -> 1.18 mappings...
+[20:24:01] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.3-SNAPSHOT
+[20:24:01] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2-SNAPSHOT
+[20:24:01] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.3-SNAPSHOT
+[20:24:01] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:24:01] [Server thread/INFO]: Preparing level "world"
+[20:24:01] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:24:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:24:01] [Server thread/INFO]: View Distance: 10
+[20:24:01] [Server thread/INFO]: Mob Spawn Range: 4
+[20:24:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:24:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:24:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:24:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:24:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:24:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:24:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:24:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:24:01] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:24:01] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:24:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:24:01] [Server thread/INFO]: Structure Info Saving: true
+[20:24:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:24:01] [Server thread/INFO]: Random Lighting Updates: false
+[20:24:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:24:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:24:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:24:01] [Server thread/INFO]: Max TNT Explosions: 100
+[20:24:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:24:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:24:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:24:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:24:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:24:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:24:02] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:24:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:24:02] [Server thread/INFO]: View Distance: 10
+[20:24:02] [Server thread/INFO]: Mob Spawn Range: 4
+[20:24:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:24:02] [Server thread/INFO]: Structure Info Saving: true
+[20:24:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:24:02] [Server thread/INFO]: Random Lighting Updates: false
+[20:24:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:24:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:24:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:24:02] [Server thread/INFO]: Max TNT Explosions: 100
+[20:24:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:24:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:24:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:24:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:24:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:24:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:24:02] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:24:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:24:02] [Server thread/INFO]: View Distance: 10
+[20:24:02] [Server thread/INFO]: Mob Spawn Range: 4
+[20:24:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:24:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:24:02] [Server thread/INFO]: Structure Info Saving: true
+[20:24:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:24:02] [Server thread/INFO]: Random Lighting Updates: false
+[20:24:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:24:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:24:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:24:02] [Server thread/INFO]: Max TNT Explosions: 100
+[20:24:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:24:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:24:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:24:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:24:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:24:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:24:02] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
+[20:24:03] [Server thread/INFO]: Preparing spawn area: 52%
+[20:24:04] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4053063859551118418)
+[20:24:05] [Server thread/INFO]: Preparing spawn area: 57%
+[20:24:05] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4053063859551118418)
+[20:24:06] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.4.3-SNAPSHOT
+[20:24:06] [Server thread/INFO]: [HalloweenCamp] Enabling HalloweenCamp v1.0
+[20:24:06] [Server thread/INFO]: [HalloweenCamp] [HalloweenCamp] Plugin Loaded! Running version 1.0
+[20:24:06] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.4.3-SNAPSHOT
+[20:24:06] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2-SNAPSHOT
+[20:24:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:24:06] [Server thread/INFO]: Done (4.637s)! For help, type "help" or "?"
+[20:24:06] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2 (340)
+[20:24:06] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[20:24:06] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 10.0.2). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[20:24:06] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[20:24:07] [Server thread/WARN]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[20:24:13] [User Authenticator #1/INFO]: UUID of player Wary is 0291046d-6599-41e3-af90-d73294443268
+[20:24:13] [Server thread/INFO]: Wary[/127.0.0.1:63829] logged in with entity id 90 at ([world]-2150.1351592024607, 70.23178574734047, 149.86250001192093)
+[20:34:30] [Thread-1/INFO]: Stopping server
