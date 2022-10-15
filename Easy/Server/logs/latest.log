@@ -1,0 +1,297 @@
+[15:08:01] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[15:08:01] [Server thread/INFO]: Loading properties
+[15:08:01] [Server thread/INFO]: Default game type: SURVIVAL
+[15:08:01] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-f4830a1 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[15:08:01] [Server thread/INFO]: Debug logging is disabled
+[15:08:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[15:08:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:08:01] [Server thread/INFO]: Generating keypair
+[15:08:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:08:01] [Server thread/INFO]: Using default channel type
+[15:08:01] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:08:01] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.4.3-SNAPSHOT
+[15:08:01] [Server thread/INFO]: [ViaVersion] ViaVersion 4.4.3-SNAPSHOT is now loaded, injecting!
+[15:08:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[15:08:01] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[15:08:01] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[15:08:01] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[15:08:01] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[15:08:01] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[15:08:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:08:01] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[15:08:02] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[15:08:02] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.18 -> 1.19 mappings...
+[15:08:02] [Server thread/INFO]: [Skript] Loading Skript v2.6.3
+[15:08:02] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.4.3-SNAPSHOT
+[15:08:02] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[15:08:02] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[15:08:02] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[15:08:02] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.12 -> 1.11 mappings...
+[15:08:02] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[15:08:02] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[15:08:02] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[15:08:02] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[15:08:02] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[15:08:02] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[15:08:02] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[15:08:02] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.18 -> 1.17 mappings...
+[15:08:02] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.19 -> 1.18 mappings...
+[15:08:02] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.3-SNAPSHOT
+[15:08:02] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2-SNAPSHOT
+[15:08:02] [Server thread/INFO]: [skRayFall] Loading skRayFall v1.9.28
+[15:08:02] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.3-SNAPSHOT
+[15:08:02] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:08:02] [Server thread/INFO]: Preparing level "world"
+[15:08:02] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:08:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:08:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:08:02] [Server thread/INFO]: View Distance: 10
+[15:08:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:08:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:08:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:08:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:08:02] [Server thread/INFO]: Mob Spawn Range: 4
+[15:08:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:08:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:08:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:08:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:08:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:08:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:08:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:08:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:08:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:08:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:08:02] [Server thread/INFO]: Structure Info Saving: true
+[15:08:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:08:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:08:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:08:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:08:02] [Server thread/INFO]: Random Lighting Updates: false
+[15:08:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:08:02] [Server thread/INFO]: Max TNT Explosions: 100
+[15:08:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:08:03] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:08:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:08:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:08:03] [Server thread/INFO]: View Distance: 10
+[15:08:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:08:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:08:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:08:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:08:03] [Server thread/INFO]: Mob Spawn Range: 4
+[15:08:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Structure Info Saving: true
+[15:08:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:08:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:08:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:08:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:08:03] [Server thread/INFO]: Random Lighting Updates: false
+[15:08:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:08:03] [Server thread/INFO]: Max TNT Explosions: 100
+[15:08:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:08:03] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:08:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:08:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:08:03] [Server thread/INFO]: View Distance: 10
+[15:08:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:08:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:08:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:08:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:08:03] [Server thread/INFO]: Mob Spawn Range: 4
+[15:08:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:08:03] [Server thread/INFO]: Structure Info Saving: true
+[15:08:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:08:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:08:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:08:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:08:03] [Server thread/INFO]: Random Lighting Updates: false
+[15:08:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:08:03] [Server thread/INFO]: Max TNT Explosions: 100
+[15:08:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:08:03] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
+[15:08:03] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4053063859551118418)
+[15:08:04] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4053063859551118418)
+[15:08:04] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.4.3-SNAPSHOT
+[15:08:04] [Server thread/INFO]: [Skript] Enabling Skript v2.6.3
+[15:08:05] [ForkJoinPool.commonPool-worker-19/INFO]: [Skript] You're currently running the latest stable version of Skript.
+
+[15:08:06] [Server thread/INFO]: [Skript] Loaded 18405 aliases in 1535ms
+
+[15:08:06] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+
+[15:08:06] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.4.3-SNAPSHOT
+[15:08:06] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2-SNAPSHOT
+[15:08:06] [Server thread/INFO]: [skRayFall] Enabling skRayFall v1.9.28
+[15:08:06] [Server thread/INFO]: [skRayFall] Yay! You are running skRayFall 1.9.28!
+[15:08:06] [Server thread/INFO]: [skRayFall] Nathan and Lewis <3 you.
+[15:08:06] [Server thread/INFO]: [skRayFall] Cooking Bacon...
+[15:08:06] [Server thread/INFO]: [skRayFall] Citizens not found! Sorry you cant make friends, but don't worry we will still be your friend <3
+[15:08:06] [Server thread/INFO]: [skRayFall] Got bacon for the EffectLib particle ninjas!
+[15:08:06] [Server thread/INFO]: [skRayFall] No Votifier Found! *Checks oven for finished bacon*
+[15:08:06] [Server thread/INFO]: [skRayFall] Enabling general 1.8+ bacon!
+[15:08:06] [Server thread/INFO]: [skRayFall] Getting the general 1.9+ bacon!
+[15:08:06] [Server thread/INFO]: [skRayFall] Getting the extra special 1.12 bacon!
+[15:08:06] [Server thread/INFO]: [skRayFall] Bacon is ready!
+[15:08:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:08:06] [Server thread/INFO]: Done (3.862s)! For help, type "help" or "?"
+[15:08:06] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2 (340)
+[15:08:06] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[15:08:06] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 16.0.2). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[15:08:06] [Server thread/INFO]: [Skript] Loading variables...
+
+[15:08:06] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+
+[15:08:06] [Server thread/INFO]: [Skript] Line 11: (camp.sk)
+
+[15:08:06] [Server thread/INFO]:     Can't understand this condition/effect: morkazsk spawn 20 of particle "FLAME" for player at player offset by 0.2, 0.2, 0.2 with speed 0.05
+
+[15:08:06] [Server thread/INFO]:     Line: morkazsk spawn 20 of particle "FLAME" for player at player offset by 0.2, 0.2, 0.2 with speed 0.05
+
+[15:08:06] [Server thread/INFO]:  
+
+[15:08:06] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 0 triggers and 2 commands in 0.07 seconds
+
+[15:08:06] [Server thread/INFO]: [Skript] Finished loading.
+
+[15:08:06] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[15:08:06] [Server thread/WARN]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[15:08:27] [User Authenticator #1/INFO]: UUID of player Wary is 0291046d-6599-41e3-af90-d73294443268
+[15:08:28] [Server thread/INFO]: Wary[/127.0.0.1:55617] logged in with entity id 92 at ([world]-2182.2684864122525, 73.0, 139.30000001192093)
+[15:08:32] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:08:37] [Server thread/INFO]: Wary issued server command: /spook
+[15:08:39] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:08:50] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:08:51] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:08:53] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:08:55] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:08:58] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:00] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:02] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:05] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:08] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:10] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:13] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:15] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:18] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:21] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:23] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:24] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:24] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:24] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:24] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:25] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:25] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:27] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:27] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:27] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:27] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:28] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:28] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:28] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:28] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:28] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:30] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:30] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:31] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:31] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:09:31] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:12:39] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:12:40] [Server thread/INFO]: Wary issued server command: /spook Wary
+[15:25:53] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:26:28] [Server thread/INFO]: Wary issued server command: /pl
+[15:26:33] [Server thread/INFO]: Wary lost connection: Disconnected
+[15:26:33] [Server thread/INFO]: Wary left the game
+[15:26:54] [User Authenticator #2/INFO]: UUID of player Wary is 0291046d-6599-41e3-af90-d73294443268
+[15:26:54] [Server thread/INFO]: Wary[/127.0.0.1:55074] logged in with entity id 97 at ([world]-2189.5088670297496, 74.0, 142.66913401584299)
+[15:27:17] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:27:19] [Server thread/INFO]: Wary issued server command: /pl
+[15:28:05] [Server thread/INFO]: Wary issued server command: /pl
+[15:50:11] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:50:22] [Server thread/INFO]: Wary issued server command: /gms
+[15:50:23] [Server thread/INFO]: Wary issued server command: /gamemode s
+[15:50:23] [Server thread/INFO]: [Wary: Set own game mode to Survival Mode]
+[15:50:36] [Server thread/INFO]: Wary issued server command: /gamemode s
+[15:50:36] [Server thread/INFO]: [Wary: Set own game mode to Survival Mode]
+[15:50:38] [Server thread/INFO]: Wary issued server command: /gms
+[15:50:40] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:50:50] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:51:00] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:51:21] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:51:21] [Server thread/INFO]: hi
+
+[15:51:22] [Server thread/INFO]: hi
+
+[15:51:23] [Server thread/INFO]: hi
+
+[15:51:23] [Server thread/INFO]: hi
+
+[15:51:29] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:51:37] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:51:38] [Server thread/INFO]: hi
+
+[15:51:38] [Server thread/INFO]: hi
+
+[15:51:38] [Server thread/INFO]: hi
+
+[15:51:39] [Server thread/INFO]: hi
+
+[15:51:39] [Server thread/INFO]: hi
+
+[15:51:40] [Server thread/INFO]: hi
+
+[15:51:40] [Server thread/INFO]: hi
+
+[15:51:40] [Server thread/INFO]: hi
+
+[15:51:40] [Server thread/INFO]: hi
+
+[15:51:40] [Server thread/INFO]: hi
+
+[15:51:40] [Server thread/INFO]: hi
+
+[15:51:44] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[15:51:47] [Server thread/INFO]: Wary issued server command: /trash
+[15:52:48] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[16:07:49] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[16:08:37] [Server thread/INFO]: Wary issued server command: /sk reload camp
+[16:08:40] [Server thread/INFO]: Wary issued server command: /magicwand
+[16:08:43] [Server thread/INFO]: Wary issued server command: /gmc
+[16:08:44] [Server thread/INFO]: Wary issued server command: /gamemode c
+[16:08:44] [Server thread/INFO]: [Wary: Set own game mode to Creative Mode]
+[16:23:00] [Server thread/INFO]: Wary issued server command: /stop
+[16:23:00] [Server thread/INFO]: [Wary: Stopping the server]
+[16:23:00] [Server thread/INFO]: Stopping server
+[16:23:00] [Server thread/INFO]: [skRayFall] Disabling skRayFall v1.9.28
+[16:23:00] [Server thread/INFO]: [skRayFall] Bacon has been eaten. Make some more soon!
+[16:23:00] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2-SNAPSHOT
+[16:23:00] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v2.0.3-SNAPSHOT
+[16:23:00] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.4.3-SNAPSHOT
+[16:23:00] [Server thread/INFO]: [Skript] Disabling Skript v2.6.3
+[16:23:00] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.4.3-SNAPSHOT
+[16:23:00] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[16:23:00] [Server thread/INFO]: Saving players
+[16:23:00] [Server thread/INFO]: Wary lost connection: Server closed
+[16:23:00] [Server thread/INFO]: Wary left the game
+[16:23:00] [Server thread/INFO]: Saving worlds
+[16:23:00] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[16:23:01] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[16:23:01] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
